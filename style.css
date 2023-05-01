@@ -1,0 +1,529 @@
+ {
+  box-sizing: border-box;
+}
+. {
+  background: #d25951;
+  width: 428px;
+  height: 926px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  width: 75px;
+  height: 926px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-12 {
+  background: #3a1a1a;
+  width: 75px;
+  height: 926px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.map {
+  width: 66px;
+  height: 381px;
+  position: absolute;
+  left: 4px;
+  top: 15px;
+}
+.2 {
+  border-radius: 3px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 66px;
+  height: 59px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.cataloge {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 2px;
+  top: 201px;
+  width: 60px;
+  height: 12px;
+}
+.home {
+  color: #cbb8b8;
+  text-align: center;
+  font: 400 16px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 3px;
+  top: 159px;
+  width: 59px;
+  height: 12px;
+}
+.in-stock {
+  color: #cbb8b8;
+  text-align: center;
+  font: 400 16px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 3px;
+  top: 243px;
+  width: 59px;
+  height: 12px;
+}
+.ba-sket {
+  color: #cbb8b8;
+  text-align: center;
+  font: 400 16px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 3px;
+  top: 285px;
+  width: 59px;
+  height: 12px;
+}
+.about-us {
+  color: #cbb8b8;
+  text-align: center;
+  font: 400 16px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 3px;
+  top: 327px;
+  width: 59px;
+  height: 12px;
+}
+.faq {
+  color: #cbb8b8;
+  text-align: center;
+  font: 400 18px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 2px;
+  top: 369px;
+  width: 59px;
+  height: 12px;
+}
+.rectangle-4 {
+  border-radius: 3px;
+  position: absolute;
+  left: 189px;
+  top: 738px;
+  overflow: visible;
+}
+.see-more {
+  color: #cbb8b8;
+  text-align: center;
+  font: 400 16px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 217px;
+  top: 745px;
+  width: 67px;
+  height: 16px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.component-1 {
+  width: 354px;
+  height: 139px;
+  position: absolute;
+  left: 74px;
+  top: 787px;
+}
+.rectangle-7 {
+  background: #652f2f;
+  width: 353px;
+  height: 139px;
+  position: absolute;
+  left: 1px;
+  top: 0px;
+}
+.follow-us-for-more {
+  color: #000000;
+  text-align: center;
+  font: 400 24px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 74px;
+  top: 12px;
+  width: 204px;
+  height: 27px;
+}
+.iconsax-bold-facebook {
+  position: absolute;
+  left: 97px;
+  top: 40px;
+  overflow: visible;
+}
+.iconsax-bold-instagram {
+  position: absolute;
+  left: 162px;
+  top: 40px;
+  overflow: visible;
+}
+.iconsax-bold-routesquare {
+  position: absolute;
+  left: 224px;
+  top: 40px;
+  overflow: visible;
+}
+.ellipse-7 {
+  border-radius: 50%;
+  width: 75px;
+  height: 84px;
+  position: absolute;
+  left: 10px;
+  top: 35px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 352px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(0.174deg) scale(1, 1);
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 99px;
+  top: 95px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 214px;
+  top: 95px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 325px;
+  top: 95px;
+}
+.rectangle-102 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 99px;
+  top: 228px;
+}
+.rectangle-92 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 214px;
+  top: 228px;
+}
+.rectangle-122 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 86px;
+  top: 616px;
+}
+.rectangle-13 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 330px;
+  top: 228px;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 328px;
+  top: 487px;
+}
+.rectangle-15 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 204px;
+  top: 487px;
+}
+.rectangle-17 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 86px;
+  top: 487px;
+}
+.rectangle-18 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 328px;
+  top: 616px;
+}
+.rectangle-19 {
+  background: #d9d9d9;
+  width: 87px;
+  height: 79px;
+  position: absolute;
+  left: 204px;
+  top: 616px;
+}
+.rectangle-2 {
+  width: 353px;
+  height: 129px;
+  position: absolute;
+  left: 75px;
+  top: 354px;
+}
+.name-price {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 105px;
+  top: 187px;
+  width: 75px;
+  height: 18px;
+}
+.name-price2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 92px;
+  top: 575px;
+  width: 75px;
+  height: 18px;
+}
+.name-price3 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 335px;
+  top: 316px;
+  width: 75px;
+  height: 18px;
+}
+.name-price4 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 220px;
+  top: 317px;
+  width: 75px;
+  height: 18px;
+}
+.name-price5 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 220px;
+  top: 185px;
+  width: 75px;
+  height: 18px;
+}
+.name-price6 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 105px;
+  top: 317px;
+  width: 75px;
+  height: 18px;
+}
+.name-price7 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 334px;
+  top: 183px;
+  width: 75px;
+  height: 18px;
+}
+.name-price8 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 210px;
+  top: 577px;
+  width: 75px;
+  height: 18px;
+}
+.name-price9 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 210px;
+  top: 706px;
+  width: 75px;
+  height: 18px;
+}
+.name-price10 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 92px;
+  top: 704px;
+  width: 75px;
+  height: 18px;
+}
+.name-price11 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 338px;
+  top: 576px;
+  width: 75px;
+  height: 18px;
+}
+.name-price12 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 11px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 338px;
+  top: 707px;
+  width: 75px;
+  height: 18px;
+}
+.rectangle-20 {
+  background: #d25951;
+  width: 87px;
+  height: 20px;
+  position: absolute;
+  left: 330px;
+  top: 47px;
+}
+.search {
+  color: #000000;
+  text-align: center;
+  font: 400 15px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 335px;
+  top: 48px;
+  width: 86px;
+  height: 20px;
+}
+.iconsax-linear-searchnormal-1 {
+  width: 16px;
+  height: 17px;
+  position: absolute;
+  left: 335px;
+  top: 44px;
+  overflow: hidden;
+}
+.vector4 {
+  position: absolute;
+  left: 1.33px;
+  top: 1.42px;
+  overflow: visible;
+}
+.frame-4 {
+  width: 66.67px;
+  height: 70.83px;
+  position: absolute;
+  left: -25.33px;
+  top: -29.04px;
+  overflow: hidden;
+}
+.rectangle-21 {
+  background: #641c18;
+  width: 225px;
+  height: 21px;
+  position: absolute;
+  left: 85px;
+  top: 44px;
+}
+.country {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: sticky;
+  left: 81px;
+  top: 48px;
+  width: 75px;
+  height: 16px;
+}
+.price {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: sticky;
+  left: calc(50% - 50px);
+  top: calc(50% - 415px);
+  width: 65px;
+  height: 16px;
+}
+.type {
+  color: #ffffff;
+  text-align: center;
+  font: 400 15px "Katibeh", sans-serif;
+  text-transform: uppercase;
+  position: sticky;
+  left: 237px;
+  top: 48px;
+  width: 58px;
+  height: 16px;
+}
+.iconsax-linear-arrowdown-2 {
+  position: sticky;
+  left: 146px;
+  top: 45px;
+  overflow: visible;
+}
+.iconsax-linear-arrowdown-22 {
+  position: sticky;
+  left: 285px;
+  top: 44px;
+  overflow: visible;
+}
+.iconsax-linear-arrowdown-23 {
+  position: sticky;
+  left: 220px;
+  top: 45px;
+  overflow: visible;
+}
